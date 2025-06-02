@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../code"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CodSoft-main"
+	}
+}
